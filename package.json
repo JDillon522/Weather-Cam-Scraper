@@ -1,0 +1,15 @@
+{
+  "name": "weather-camera-scraper",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple script to scrape some weather camera data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.7.0"
+  }
+}
